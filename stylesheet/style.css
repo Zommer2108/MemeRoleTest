@@ -1,9 +1,3 @@
-/* FILEPATH: /C:/Users/roman/Documents/Workspaces/Private Workspace/Visual Studio Code/MemesEternal/MemeRoleTest/stylesheet/style.css */
-
-/* Style the first div */
-div {
-    background-color: red;
-    color: white;
-    padding: 10px;
+.headline {
+text-align: center;
 }
-
