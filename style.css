@@ -1,0 +1,28 @@
+#headline {
+text-align: center;
+font-family: 'Comic Sans MS', Arial, sans-serif;
+}
+
+#divIntroBox {
+    font-family: 'Comic Sans MS', Arial, sans-serif;
+    border: 0.5vw solid gray;
+    border-radius: 3vh;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 50vh; 
+}
+
+#buttons{
+    font-family: 'Comic Sans MS', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#continueButton{
+    font-family: 'Comic Sans MS', Arial, sans-serif;
+    text-align: right;
+    padding: 3% 10%;
+}
